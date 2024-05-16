@@ -2,5 +2,6 @@
 I try to code 1 project everyday in this book with slight or minor adjustments.
 
 Finished:
- * #1 Bagels
+ * 01 Bagels
+ * 02 Birthday Paradox
 
