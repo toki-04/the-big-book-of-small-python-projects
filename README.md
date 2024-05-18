@@ -5,4 +5,5 @@ Finished:
  * 01 Bagels
  * 02 Birthday Paradox
  * 03 Bitmap Message
+ * 04 Blackjack
 
