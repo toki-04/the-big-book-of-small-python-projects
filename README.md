@@ -6,4 +6,5 @@ Finished:
  * 02 Birthday Paradox
  * 03 Bitmap Message
  * 04 Blackjack
+ * 05 Bouncing DVD Logo
 
