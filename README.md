@@ -7,4 +7,5 @@ Finished:
  * 03 Bitmap Message
  * 04 Blackjack
  * 05 Bouncing DVD Logo
+ * 06 Caesar Hacker
 
