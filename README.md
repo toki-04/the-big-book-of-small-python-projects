@@ -9,4 +9,5 @@ Finished:
  * 05 Bouncing DVD Logo
  * 06 Caesar Cipher
  * 07 Caesar Hacker
+ * 08 Calendar Maker
 
