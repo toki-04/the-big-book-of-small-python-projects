@@ -13,3 +13,4 @@ Finished:
  * 09 Carrot In A Box
  * 10 Cho-Han
  * 11 Clickbait Headline Generator
+ * 12 Collatz Sequence
