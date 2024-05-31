@@ -18,3 +18,4 @@ Finished:
  * 14 Countdown
  * 15 Deep Cave
  * 16 Diamonds
+ * 17 Dice Math
