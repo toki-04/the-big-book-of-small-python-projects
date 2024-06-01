@@ -19,3 +19,4 @@ Finished:
  * 15 Deep Cave
  * 16 Diamonds
  * 17 Dice Math
+ * 18 Dice Roller
