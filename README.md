@@ -20,3 +20,4 @@ Finished:
  * 16 Diamonds
  * 17 Dice Math
  * 18 Dice Roller
+ * 19 Digital Clock
