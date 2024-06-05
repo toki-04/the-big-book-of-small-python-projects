@@ -22,3 +22,4 @@ Finished:
  * 18 Dice Roller
  * 19 Digital Clock
  * 20 Digital Stream
+ * 21 DNA Visualization
