@@ -23,3 +23,4 @@ Finished:
  * 19 Digital Clock
  * 20 Digital Stream
  * 21 DNA Visualization
+ * 22 Ducklings
