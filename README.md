@@ -26,3 +26,4 @@ Finished:
  * 22 Ducklings
  * 23 Etching Drawer
  * 24 Factor Finder
+ * 25 Fast Draw
