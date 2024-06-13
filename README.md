@@ -30,3 +30,4 @@ Finished:
  * 26 Fibonacci
  * 27 Fish Tank
  * 28 Flooder
+ * 29 Forest Fire Sim
