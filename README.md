@@ -33,3 +33,4 @@ Finished:
  * 29 Forest Fire Sim
  * 30 Four In a Row
  * 31 Guess The Number
+ * 32 Gullible
