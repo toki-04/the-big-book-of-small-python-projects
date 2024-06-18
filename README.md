@@ -35,3 +35,4 @@ Finished:
  * 31 Guess The Number
  * 32 Gullible
  * 33 Hacking Minigame
+ * 34 Hangman and Guillotine
