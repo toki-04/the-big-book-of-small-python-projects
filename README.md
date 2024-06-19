@@ -36,3 +36,4 @@ Finished:
  * 32 Gullible
  * 33 Hacking Minigame
  * 34 Hangman and Guillotine
+ * 35 Hex Grid
