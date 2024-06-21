@@ -38,3 +38,4 @@ Finished:
  * 34 Hangman and Guillotine
  * 35 Hex Grid
  * 36 HOURGLASS
+ * 37 Hungry Robots
