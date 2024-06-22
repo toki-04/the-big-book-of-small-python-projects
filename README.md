@@ -39,3 +39,4 @@ Finished:
  * 35 Hex Grid
  * 36 HOURGLASS
  * 37 Hungry Robots
+ * 38 J'Accuse
