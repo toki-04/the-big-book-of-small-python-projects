@@ -40,3 +40,4 @@ Finished:
  * 36 HOURGLASS
  * 37 Hungry Robots
  * 38 J'Accuse
+ * 39 Langton's Ant
