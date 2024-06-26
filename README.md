@@ -41,3 +41,4 @@ Finished:
  * 37 Hungry Robots
  * 38 J'Accuse
  * 39 Langton's Ant
+ * 40 Leetspeak
