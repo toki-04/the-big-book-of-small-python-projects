@@ -42,3 +42,4 @@ Finished:
  * 38 J'Accuse
  * 39 Langton's Ant
  * 40 Leetspeak
+ * 41 Lucky Stars
