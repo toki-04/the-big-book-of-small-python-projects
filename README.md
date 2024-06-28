@@ -43,3 +43,4 @@ Finished:
  * 39 Langton's Ant
  * 40 Leetspeak
  * 41 Lucky Stars
+ * 42 Magic Fortune Ball
