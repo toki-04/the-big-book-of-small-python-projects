@@ -44,3 +44,4 @@ Finished:
  * 40 Leetspeak
  * 41 Lucky Stars
  * 42 Magic Fortune Ball
+ * 43 Mancala
